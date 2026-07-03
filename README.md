@@ -57,7 +57,4 @@ cd gastoshid-front
 npm install
 npm run dev
 
-**Aplicação Disponivel**:
-http://localhost:5173
-
 **Criado por: Victor Angelini**
