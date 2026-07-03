@@ -56,7 +56,6 @@ Backend
     cd ControleGastos
 dotnet restore
 dotnet run
-http://localhost:5242
 
 Frontend
 cd gastoshid-front
