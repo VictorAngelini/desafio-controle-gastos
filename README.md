@@ -18,16 +18,6 @@ Frontend: TypeScript, React, Vite, CSS
 Backend: C# (.NET Web API)
 Estrutura web: HTML
 
-Distribuição aproximada do código:
-
-TypeScript: 45.8%
-
-CSS: 31.9%
-
-C#: 20.0%
-
-HTML: 2.3%
-
 Funcionalidades
 
 Cadastro e gerenciamento de moradores
