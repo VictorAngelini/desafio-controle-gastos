@@ -1,4 +1,5 @@
-<img width="3828" height="1626" alt="ssss" src="https://github.com/user-attachments/assets/ae1fb5a0-4ec2-4067-aeb9-a40146415180" />
+<img width="3828" height="1626" alt="c#" src="https://github.com/user-attachments/assets/601fc761-cdf9-41b4-9afd-6ab56b48fe09" />
+
 
 
 # Desafio Controle de Gastos Residenciais
