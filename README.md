@@ -1,4 +1,5 @@
-<img width="1000" alt="gastos" src="https://github.com/user-attachments/assets/c3d64756-e8fb-4ca2-a3e2-f0bb7b7e3110" />
+<img width="1791" height="987" alt="gastos" src="https://github.com/user-attachments/assets/77b1b86d-32ba-495f-b522-7639dc3082db" />
+
 
 
 
