@@ -1,10 +1,10 @@
 <img width="1791" height="987" alt="gastos" src="https://github.com/user-attachments/assets/3942a4c2-893e-427b-b841-3693cef08f30" />
 
-CONTROLE DE GASTOS RESIDENCIAIS.
+**CONTROLE DE GASTOS RESIDENCIAIS.**
 
 Sistema full-stack para gestão e consolidação de despesas e receitas domésticas. A aplicação foi desenvolvida para permitir o controle financeiro individual e coletivo de moradores, com atualização em tempo real do saldo e geração automática de balanços financeiros.
 
-Objetivo do Projeto
+**Objetivo do Projeto**
 
 Este projeto tem como finalidade demonstrar competências em desenvolvimento full-stack, incluindo:
 
@@ -18,7 +18,7 @@ Frontend: TypeScript, React, Vite, CSS
 Backend: C# (.NET Web API)
 Estrutura web: HTML
 
-Funcionalidades
+**Funcionalidades**
 
 Cadastro e gerenciamento de moradores
 Registro de receitas e despesas por usuário
@@ -37,7 +37,7 @@ Total de receitas
 Total de despesas
 Saldo líquido geral
 
-Arquitetura do Sistema
+**Arquitetura do Sistema**
 
 desafio-controle-gastos/
 ├── ControleGastos/        # Backend (.NET Web API em C#)
@@ -47,17 +47,17 @@ desafio-controle-gastos/
     │   └── main.tsx      # Bootstrap da aplicação
     └── package.json       # Dependências do frontend
 
-Backend
+**Backend**
     cd ControleGastos
 dotnet restore
 dotnet run
 
-Frontend
+**Frontend**
 cd gastoshid-front
 npm install
 npm run dev
 
-Aplicação Disponivel:
+**Aplicação Disponivel**:
 http://localhost:5173
 
-Criado por: Victor Angelini
+**Criado por: Victor Angelini**
