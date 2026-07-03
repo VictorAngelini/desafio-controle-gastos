@@ -1,6 +1,6 @@
 <img width="1791" height="987" alt="gastos" src="https://github.com/user-attachments/assets/3942a4c2-893e-427b-b841-3693cef08f30" />
 
-Controle de Gastos Residenciais
+CONTROLE DE GASTOS RESIDENCIAIS.
 
 Sistema full-stack para gestão e consolidação de despesas e receitas domésticas. A aplicação foi desenvolvida para permitir o controle financeiro individual e coletivo de moradores, com atualização em tempo real do saldo e geração automática de balanços financeiros.
 
@@ -21,10 +21,15 @@ Estrutura web: HTML
 Distribuição aproximada do código:
 
 TypeScript: 45.8%
+
 CSS: 31.9%
+
 C#: 20.0%
+
 HTML: 2.3%
+
 Funcionalidades
+
 Cadastro e gerenciamento de moradores
 Registro de receitas e despesas por usuário
 Controle de permissões por regra de negócio (maioridade financeira)
